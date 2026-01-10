@@ -1,1 +1,1 @@
-# Basit ama bazen gerekli olan işleri yaptırmak için basit projeler ve canımın istediği şeyleri paylaşıyorum, açılışı bununla yaptık. Yakında fare kordinatı veren kodu da paylaşırım. Ne olduğunu açıklamama gerek yok herhalde projenin.
+# Basit ama bazen gerekli olan işleri yaptırmak için projeler ve canımın istediği şeyleri paylaşıyorum, açılışı bununla yaptık. Yakında fare kordinatı veren kodu da paylaşırım. Ne olduğunu açıklamama gerek yok herhalde projenin.
