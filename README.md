@@ -17,7 +17,6 @@ CustomTkinter ile yazılmış, threading destekli ve hotkey entegreli basit bir 
 
 ```
 pip install customtkinter pyautogui keyboard
-
 ```
 
 ## Kullanım
@@ -27,8 +26,3 @@ pip install customtkinter pyautogui keyboard
 3. Tıklama sayısını belirle (boş = sonsuz).
 4. `BAŞLAT` butonuna veya kısayola bas.
 
----
-
-Bu sefer daha az "reklam kokan", daha çok iş gören bir metin oldu sanırım. Diğer projelerin için de (belki o ESP8266 veya SQL çalışmaları?) benzer, kısa ve öz metinler hazırlayabiliriz.
-
-Hangi projeyle devam edelim?
